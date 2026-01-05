@@ -7,7 +7,7 @@ Analisis perilaku *churn* pelanggan retail menggunakan **Synthetic Dataset**. Fo
 
 ### 1. Karakteristik Pelanggan Churn
 ![Dashboard Analysis](images/dashboard_churn_analysis.png)
-* **Insight**: Pelanggan churn punya frekuensi kunjungan tinggi tapi belanjaannya dikit (*low basket size*).
+* **Insight**: Pelanggan churn punya frekuensi kunjungan yang tinggi, namun belanjanya sedikit (*low basket size*).
 
 ### 2. Tren Performa Penjualan
 ![Tren Penjualan](images/tren_total_penjualan.png)
